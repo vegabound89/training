@@ -6,8 +6,8 @@
                 2. HTML Forms
                 3. HTML5
     * Nội dung cần nắm được
-        * Hiểu được HTML là gì.
-        * Hiểu được cách dùng các thẻ HTML như thế nào, dùng trong trường hợp nào
+        > Hiểu được HTML là gì.
+        > Hiểu được cách dùng các thẻ HTML như thế nào, dùng trong trường hợp nào
 
     * Bài tập
-        * Liệt kê tất cả các thẻ HTML được sử dụng trên mmolab.net 
+        > Liệt kê tất cả các thẻ HTML được sử dụng trên mmolab.net 
