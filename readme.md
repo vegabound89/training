@@ -6,7 +6,8 @@
                 1. HTML5 Tutorial
                 2. HTML Forms
                 3. HTML5
-
+        * Video tham khao
+            > https://www.youtube.com/watch?v=_7uda2DyR3E
     * Nội dung cần nắm được
         > Hiểu được HTML là gì.
         > Hiểu được cách dùng các thẻ HTML như thế nào, dùng trong trường hợp nào
