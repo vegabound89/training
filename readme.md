@@ -1,7 +1,7 @@
 # Lộ Trình HTML
     * Tài liệu
         * [Link học HTML](https://www.w3schools.com/html/default.asp "Link học bằng tiếng anh")
-        * Link Tiếng Việt tham khảo : https://vietjack.com/html/
+        * Link Tiếng Việt tham khảo : https://vietjack.com/html/, https://thachpham.com/series/html-co-ban
             > Đây là link tiếng anh về HTML có rất nhiều mục a chú ý các mục sau
                 1. HTML5 Tutorial
                 2. HTML Forms
