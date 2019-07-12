@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Bài tập html tuần 1</title>
+	<meta charset="utf-8">
+	<meta name="description" content="nộp bài tập về các thẻ html trên mmolab.net">
+	<meta name="author" content="Nguyễn Tuấn Vũ">
+	<meta name="keyword" content="nop bai tap,bai 1">
+	<meta name="copyright" content="MMOlab dot net">
+</head>
+<body>
+	<h2>Bài tập về các thẻ html trên MMOLab.net</h2>
+	<ol>
+		<li><u><b>Thẻ tiêu đề :</u></b></li>
+		<p>
+			<h2>Kiếm tiền không giới hạn với MMOLab</h2>
+		</p>
+
+
+		<li><u><b>Thẻ  p khai báo văn bản  :</u></b></li>
+		<p>
+			Phát triển kỹ năng MMO của bản thân, tránh những rủi ro không đáng có nhờ đóng góp
+ 			của hàng nghìn thành viên tích cực của MMOLab 
+		</p>
+
+
+
+		<li><u><b>Thẻ br xuống dòng :</u></b></li>
+	  	Tạo nguồn thu nhập cho bản thân qua chương trình affiliate</br>
+
+<a href="https://mmolab.net" title="Website nguồn" target="_blank">Xem nội dung chính</a>
+<hr>
+<p>Hình ảnh minh họa <strong>MMOLab.net</strong></p>
+<img src="https://mmolab.net/vendor_template/images/logo.png" title="MMOlab.net" alt="test" height="100px" width="auto" />
+
+</p>	
+<li><u><b>Thẻ Div  :)))</b></u></li>
+
+<li><u><b>Thẻ tạo form</b></u></li>
+<form action="#" method="post" name="dangnhap">
+	<p>Username : <input type="text" name="Username" /></p>
+
+	<p>Password : <input type="Password" name="Password"></form></u></p>
+
+    <input type="submit" value="Gửi đi" name="submit">
+</form>
+
+</br>
+
+<li><u><b>Thẻ img</b></u></li>
+<p>
+	<img src="https://mmolab.net/vendor_template/images/logo.png" title="mmolab" alt="mmolab,kiemtienonline" height="80px" width="auto" />
+</p>
+	<li><u><b>Thẻ footer</b></u></li>
+	<li><u><b>Thẻ script</b></u></li>
+	<li><u><b>Thẻ section</b></u></li>
+	<li><u><b>Thẻ meta :</b></u><span style="color: red"> Khai báo thông tin website như tiêu đề website, người tạo,từ khóa,...</span></li>
+	<li><u><b>Thẻ body :</b></u><span style="color: red"> Hiển thị website trên trình duyệt hiển thị ở đây</span></li>
+	<li><u><b>Thẻ html :</b></u><span style="color: red"> Khai báo đây là một tệp tin html</span></li>
+	<li><u><b>Thẻ button :</b></u><span style="color: red"> tạo </span></li>
+
+
+
+</ol>
+</body>
+</html>
